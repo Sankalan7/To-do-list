@@ -116,7 +116,7 @@ body {
   /* transition: 0.5s; */
 }
 
-.remove .active {
+/* .remove .active {
   transform: rotate(180deg);
   transition: 0.5s;
-}
+} */
